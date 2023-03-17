@@ -1,0 +1,11 @@
+C:\Users\avish\Desktop\SE-Lab\CRUD_API\EmployeeDetails\bin\Debug\EmployeeDetails.exe.config
+C:\Users\avish\Desktop\SE-Lab\CRUD_API\EmployeeDetails\bin\Debug\EmployeeDetails.exe
+C:\Users\avish\Desktop\SE-Lab\CRUD_API\EmployeeDetails\bin\Debug\EmployeeDetails.pdb
+C:\Users\avish\Desktop\SE-Lab\CRUD_API\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.AssemblyReference.cache
+C:\Users\avish\Desktop\SE-Lab\CRUD_API\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.SuggestedBindingRedirects.cache
+C:\Users\avish\Desktop\SE-Lab\CRUD_API\EmployeeDetails\obj\Debug\EmployeeDetails.Form1.resources
+C:\Users\avish\Desktop\SE-Lab\CRUD_API\EmployeeDetails\obj\Debug\EmployeeDetails.Properties.Resources.resources
+C:\Users\avish\Desktop\SE-Lab\CRUD_API\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.GenerateResource.cache
+C:\Users\avish\Desktop\SE-Lab\CRUD_API\EmployeeDetails\obj\Debug\EmployeeDetails.csproj.CoreCompileInputs.cache
+C:\Users\avish\Desktop\SE-Lab\CRUD_API\EmployeeDetails\obj\Debug\EmployeeDetails.exe
+C:\Users\avish\Desktop\SE-Lab\CRUD_API\EmployeeDetails\obj\Debug\EmployeeDetails.pdb
